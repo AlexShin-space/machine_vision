@@ -1,5 +1,7 @@
 How to use?
 
+(It works with a white background of pictures and a black outline of letters!)
+
 First step (Installation)
 install reguirements runnig this command:
     pip3 install -r requirements.txt
